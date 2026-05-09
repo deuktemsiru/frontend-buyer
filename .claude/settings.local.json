@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:api.github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(git add * 메인말고 내가 새로 판 브렌치에 해야해 알지?)"
+    ]
+  }
+}
